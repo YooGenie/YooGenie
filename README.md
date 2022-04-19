@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpink1016.tistory.com&count_bg=%23FD94DB&title_bg=%23FFC3EF&icon=itunes.svg&icon_color=%23FF0000&title=%EB%B8%94%EB%A1%9C%EA%B7%B8&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <!--
 **YooGenie/YooGenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
