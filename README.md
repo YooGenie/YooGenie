@@ -1,9 +1,11 @@
-### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=Waving&height=250&section=header&color=0:F361A6,50:FFD9EC,100:F361A6&text=괴발개발%20성장기&fontSize=70&animation=twinkling)
 
-
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.comFhit-counter&title_bg=%2300BCFF&icon=go.svg&icon_color=%23FFFFFF&title=Go&edge_flat=false)
 
 <!--
+
+&color=gradient&customColorList=10
 **YooGenie/YooGenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
