@@ -6,6 +6,17 @@
 
 <!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.comFhit-counter&title_bg=%2300BCFF&icon=go.svg&icon_color=%23FFFFFF&title=Go&edge_flat=false) -->
 
+<h2 data-ke-size="size26"><b>Tech&nbsp;Stack (◕‿◕✿)</b></h2>
+
+
+
+# GitHub
+
+![YooGenie's github stats](https://github-readme-stats.vercel.app/api?username=YooGenie&show_icons=true)
+[![YooGenie's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YooGenie&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/YooGenie)
+
+
+
 <!--
 
 &color=gradient&customColorList=10
