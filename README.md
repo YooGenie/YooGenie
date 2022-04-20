@@ -7,8 +7,9 @@
 <!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.comFhit-counter&title_bg=%2300BCFF&icon=go.svg&icon_color=%23FFFFFF&title=Go&edge_flat=false) -->
 
 <h2 data-ke-size="size26"><b>Tech&nbsp;Stack (◕‿◕✿)</b></h2>
-
-
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=000000&logoWidth=20"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=000000&logoWidth=20"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000&logoWidth=20"/>
 
 # GitHub
 
