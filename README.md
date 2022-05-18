@@ -3,7 +3,7 @@
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yshee712@gmail.com)](yshee712@gmail.com)
   [![Adafruit Badge](http://img.shields.io/badge/-blog-yellow?style=flat-square&logo=Adafruit&link=https://pink1016.tistory.com/)](https://pink1016.tistory.com/)
-  [![Adafruit Badge](http://img.shields.io/badge/-blog-yellow?style=flat-square&logo=Adafruit&link=https://programmers.co.kr/pr/yshee712_857)](https://programmers.co.kr/pr/yshee712_857)
+  [![Adafruit Badge](http://img.shields.io/badge/-이력서-yellow?style=flat-square&logo=Adafruit&link=https://programmers.co.kr/pr/yshee712_857)](https://programmers.co.kr/pr/yshee712_857)
 
 
 
