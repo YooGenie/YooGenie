@@ -3,6 +3,10 @@
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yshee712@gmail.com)](yshee712@gmail.com)
   [![Adafruit Badge](http://img.shields.io/badge/-blog-yellow?style=flat-square&logo=Adafruit&link=https://pink1016.tistory.com/)](https://pink1016.tistory.com/)
+  [![Adafruit Badge](http://img.shields.io/badge/-blog-yellow?style=flat-square&logo=Adafruit&link=https://programmers.co.kr/pr/yshee712_857)](https://programmers.co.kr/pr/yshee712_857)
+
+
+
 
 <!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.comFhit-counter&title_bg=%2300BCFF&icon=go.svg&icon_color=%23FFFFFF&title=Go&edge_flat=false) -->
 
