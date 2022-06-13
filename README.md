@@ -13,7 +13,7 @@
 <h2 data-ke-size="size26"><b>Tech&nbsp;Stack (◕‿◕✿)</b></h2>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=000000&logoWidth=20"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=000000&logoWidth=20"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000&logoWidth=20"/>
+<img src="https://img.shields.io/badge/React-FECC00?style=flat&logo=React&logoColor=000000&logoWidth=20"/>
 
 # GitHub
 
