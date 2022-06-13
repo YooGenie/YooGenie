@@ -3,7 +3,7 @@
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yshee712@gmail.com)](yshee712@gmail.com)
   [![Adafruit Badge](http://img.shields.io/badge/-blog-yellow?style=flat-square&logo=Adafruit&link=https://pink1016.tistory.com/)](https://pink1016.tistory.com/)
-  [![Adafruit Badge](http://img.shields.io/badge/-이력서-yellow?style=flat-square&logo=Adafruit&link=https://programmers.co.kr/pr/yshee712_857)](https://programmers.co.kr/pr/yshee712_857)
+  [![Adafruit Badge](http://img.shields.io/badge/-이력서-EA4C89?style=flat-square&logo=Adafruit&link=https://programmers.co.kr/pr/yshee712_857)](https://programmers.co.kr/pr/yshee712_857)
 
 
 
@@ -13,7 +13,7 @@
 <h2 data-ke-size="size26"><b>Tech&nbsp;Stack (◕‿◕✿)</b></h2>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=000000&logoWidth=20"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=000000&logoWidth=20"/>
-<img src="https://img.shields.io/badge/React-FECC00?style=flat&logo=React&logoColor=000000&logoWidth=20"/>
+<img src="https://img.shields.io/badge/React-FDEE21?style=flat&logo=React&logoColor=000000&logoWidth=20"/>
 
 # GitHub
 
