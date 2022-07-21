@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=250&section=header&color=0:F361A6,50:FFD9EC,100:F361A6&text=괴발개발%20성장기&fontSize=70&animation=twinkling)
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yshee712@gmail.com)](yshee712@gmail.com)
+<a href="mailto:yshee712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<!--   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yshee712@gmail.com)](yshee712@gmail.com) -->
   [![Adafruit Badge](http://img.shields.io/badge/-blog-yellow?style=flat-square&logo=Adafruit&link=https://pink1016.tistory.com/)](https://pink1016.tistory.com/)
 <!--   [![Adafruit Badge](http://img.shields.io/badge/-이력서-EA4C89?style=flat-square&logo=Adafruit&link=https://programmers.co.kr/pr/yshee712_857)](https://programmers.co.kr/pr/yshee712_857)
  -->
