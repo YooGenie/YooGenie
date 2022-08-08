@@ -21,10 +21,6 @@
 [![YooGenie's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YooGenie&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/YooGenie)
 
 
-# QR코드
-![나의 QR코드](https://user-images.githubusercontent.com/92665524/183326813-06d6d4fd-11e9-47ee-b0e0-6644a8c0eeb7.png)
-
-
 <!--
 
 &color=gradient&customColorList=10
