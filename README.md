@@ -21,10 +21,13 @@
 [![YooGenie's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YooGenie&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/YooGenie)
 
 
+
 <!--
 
 &color=gradient&customColorList=10
 **YooGenie/YooGenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![자산 4](https://user-images.githubusercontent.com/92665524/184095967-59c61b08-7453-4e33-83d1-766f56ce8aa4.png)
 
 Here are some ideas to get you started:
 
