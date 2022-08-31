@@ -22,6 +22,21 @@
 <img src="https://img.shields.io/badge/React-FDEE21?style=flat&logo=React&logoColor=000000&logoWidth=20"/>
 </div>
 
+<h2 data-ke-size="size26"><b>Framework (◕‿◕✿)</b></h2>
+<div style={{ textAlign: "left" , float: "left" }}>
+<img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat&logo=Ant Design&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Echo-A100FF?style=flat&logo=go&logoColor=FFFFFF"/>
+</div>
+
+<h2 data-ke-size="size26"><b> IDE (◕‿◕✿)</b></h2>
+<div style={{ textAlign: "left" , float: "left" }}>
+<img src="https://img.shields.io/badge/GoLand-000000?style=flat&logo=GoLand&logoColor=FFFFFF"/>
+</div>
+
+<h2 data-ke-size="size26"><b> 협업 툴 (◕‿◕✿)</b></h2>
+<div style={{ textAlign: "left" , float: "left" }}>
+<img src="https://img.shields.io/badge/dooray-115DE6?style=flat&logoColor=FFFFFF"/>
+</div>
 
 # GitHub
 ![YooGenie's github stats](https://github-readme-stats.vercel.app/api?username=YooGenie&show_icons=true)
