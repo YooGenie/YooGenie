@@ -7,9 +7,10 @@
 
 <a href="mailto:genie201207@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 [![Adafruit Badge](http://img.shields.io/badge/-blog-yellow?style=flat-square&logo=Adafruit&link=https://pink1016.tistory.com/)](https://pink1016.tistory.com/)
-[![Adafruit Badge](http://img.shields.io/badge/-이력서-orange?style=flat-square&logo=Adafruit&link=https://github.com/YooGenie/YooGenie/files/9607573/default.pdf)](https://github.com/YooGenie/YooGenie/files/9607573/default.pdf/)
 
+<!--[![Adafruit Badge](http://img.shields.io/badge/-이력서-orange?style=flat-square&logo=Adafruit&link=https://github.com/YooGenie/YooGenie/files/9607573/default.pdf)](https://github.com/YooGenie/YooGenie/files/9607573/default.pdf/)
 
+-->
 
 
 
