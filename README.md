@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=000000&logoWidth=20"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=000000&logoWidth=20"/>
 <img src="https://img.shields.io/badge/React-FDEE21?style=flat&logo=React&logoColor=000000&logoWidth=20"/>
+<img src="https://img.shields.io/badge/nodedotjs-#5FA04E?style=flat&logo=nodedotjs&logoColor=000000&logoWidth=20"/>
+ 
 </div>
 
 <h2 data-ke-size="size26"><b>Framework (◕‿◕✿)</b></h2>
