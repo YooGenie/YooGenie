@@ -23,16 +23,21 @@
 
 <div style={{ textAlign: "left" , float: "left" }}>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=000000&logoWidth=20"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=000000&logoWidth=20"/>
+
 <img src="https://img.shields.io/badge/React-FDEE21?style=flat&logo=React&logoColor=000000&logoWidth=20"/>
 <img src="https://img.shields.io/badge/nodedotjs-%235FA04E?style=flat&logo=nodedotjs&logoColor=000000&logoWidth=20"/>
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=000000&logoWidth=20"/>
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=000000&logoWidth=20"/>
 
 </div>
 
 <h2 data-ke-size="size26"><b>Framework (◕‿◕✿)</b></h2>
 <div style={{ textAlign: "left" , float: "left" }}>
-<img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat&logo=Ant Design&logoColor=000000"/>
+<img src="https://img.shields.io/badge/antdesign-0170FE?style=flat&logo=antdesign&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Echo-A100FF?style=flat&logo=go&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo= nestjs&logoColor=000000&logoWidth=20"/>
+
 </div>
 
 <h2 data-ke-size="size26"><b> IDE (◕‿◕✿)</b></h2>
@@ -43,7 +48,10 @@
 <h2 data-ke-size="size26"><b> 협업 툴 (◕‿◕✿)</b></h2>
 <div style={{ textAlign: "left" , float: "left" }}>
 <img src="https://img.shields.io/badge/dooray-115DE6?style=flat&logoColor=FFFFFF"/>
+ <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=FFFFFF"/>
 </div>
+
 
 # GitHub
 ![YooGenie's github stats](https://github-readme-stats.vercel.app/api?username=YooGenie&show_icons=true)
